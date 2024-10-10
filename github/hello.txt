@@ -1,3 +1,4 @@
 hello github!
 second line!
 third line
+testing gitlens
